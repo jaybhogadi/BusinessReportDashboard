@@ -1,0 +1,501 @@
+Product_Name,Subscriber_ID,State,Customer_Satisfaction_Score,Payment_Method,Aging,Churn_new
+Office 365 Enterprise E3,East,Montana,1,Online,7,1
+Office 365 Enterprise E5,North,California,3,Cheque,7,0
+Office 365 ProPlus,North,Texas,3,CCard,9,0
+Office 365 Enterprise E3,West,Texas,1,Cheque,7,0
+Office 365 Enterprise E3,East,Texas,3,CCard,3,0
+Office 365 Enterprise E5,North,Texas,1,Online,1,0
+Office 365 ProPlus,West,Texas,1,Online,8,0
+Office 365 ProPlus,East,Texas,4,Online,3,1
+Office 365 Enterprise E3,West,Texas,2,CCard,8,1
+Office 365 Enterprise E1,South,Montana,2,Online,8,1
+Office 365 Enterprise E3,North,California,3,CCard,5,0
+Office 365 Enterprise E3,South,Texas,3,Cheque,1,0
+Office 365 Enterprise E3,East,Montana,4,CCard,7,1
+Office 365 Enterprise E3,South,Montana,4,Cheque,5,0
+Office 365 Enterprise E5,South,California,4,CCard,8,0
+Office 365 ProPlus,East,Texas,1,Cheque,9,0
+Office 365 Enterprise E5,West,California,4,Online,7,0
+Office 365 Enterprise E5,South,Texas,4,Cheque,7,0
+Office 365 Enterprise E5,West,Montana,3,Online,1,1
+Office 365 Enterprise E3,South,Montana,4,Online,4,1
+Office 365 Enterprise E1,West,Montana,1,Cheque,2,1
+Office 365 ProPlus,East,Montana,1,CCard,2,1
+Office 365 Enterprise E1,South,California,3,CCard,2,1
+Office 365 Enterprise E5,East,Texas,4,CCard,4,0
+Office 365 Enterprise E5,South,Texas,4,CCard,1,0
+Office 365 Enterprise E1,East,California,1,CCard,4,0
+Office 365 Enterprise E1,East,Texas,4,Online,2,0
+Office 365 Enterprise E1,South,Montana,4,CCard,5,1
+Office 365 Enterprise E5,South,Texas,4,Online,3,1
+Office 365 Enterprise E5,South,Montana,2,Online,8,1
+Office 365 ProPlus,North,California,3,Online,4,0
+Office 365 ProPlus,West,Texas,2,Cheque,1,1
+Office 365 Enterprise E5,North,California,3,Cheque,1,0
+Office 365 Enterprise E1,North,Texas,1,Online,3,1
+Office 365 Enterprise E1,East,Montana,4,Cheque,9,1
+Office 365 ProPlus,South,California,3,CCard,7,0
+Office 365 Enterprise E5,West,Texas,2,CCard,2,0
+Office 365 ProPlus,East,Montana,4,Online,9,1
+Office 365 ProPlus,North,California,1,CCard,2,1
+Office 365 Enterprise E3,South,California,3,Online,3,0
+Office 365 Enterprise E3,East,Texas,3,Online,2,1
+Office 365 Enterprise E3,South,Texas,3,CCard,3,1
+Office 365 Enterprise E1,East,Texas,4,Cheque,6,0
+Office 365 Enterprise E5,South,Montana,2,CCard,9,1
+Office 365 Enterprise E5,North,Texas,2,CCard,9,0
+Office 365 Enterprise E5,West,California,3,Online,7,1
+Office 365 Enterprise E5,North,California,1,Online,3,0
+Office 365 Enterprise E3,West,Texas,1,Online,4,1
+Office 365 Enterprise E1,South,Texas,2,Online,6,0
+Office 365 Enterprise E1,East,California,1,Cheque,5,1
+Office 365 Enterprise E3,North,Montana,2,Cheque,2,0
+Office 365 Enterprise E1,West,Texas,3,Cheque,6,1
+Office 365 Enterprise E3,North,Texas,2,Online,3,1
+Office 365 Enterprise E5,West,California,2,Online,8,1
+Office 365 Enterprise E3,North,Texas,3,Online,2,1
+Office 365 Enterprise E5,West,Montana,1,Cheque,1,1
+Office 365 Enterprise E5,West,California,2,Online,9,1
+Office 365 ProPlus,South,Texas,2,CCard,3,1
+Office 365 Enterprise E3,West,California,3,CCard,1,1
+Office 365 ProPlus,South,Texas,1,Online,7,1
+Office 365 Enterprise E3,West,Texas,2,CCard,5,0
+Office 365 Enterprise E3,East,Texas,3,CCard,5,0
+Office 365 ProPlus,East,Montana,2,Cheque,1,1
+Office 365 ProPlus,East,Montana,4,Online,9,0
+Office 365 Enterprise E3,West,California,3,Online,7,1
+Office 365 Enterprise E1,South,Texas,1,Cheque,8,1
+Office 365 Enterprise E5,South,Texas,1,CCard,9,0
+Office 365 ProPlus,West,Montana,1,CCard,6,1
+Office 365 Enterprise E5,East,Texas,1,Online,5,1
+Office 365 Enterprise E1,East,Montana,2,CCard,6,0
+Office 365 Enterprise E1,South,Texas,2,Cheque,2,0
+Office 365 Enterprise E1,East,California,1,Cheque,4,1
+Office 365 ProPlus,North,Texas,1,Online,3,0
+Office 365 Enterprise E1,South,Texas,1,Cheque,7,0
+Office 365 ProPlus,East,Montana,2,Cheque,9,1
+Office 365 Enterprise E1,South,Texas,1,Online,5,0
+Office 365 Enterprise E5,North,Texas,1,Cheque,6,0
+Office 365 Enterprise E5,South,Montana,4,Cheque,2,1
+Office 365 Enterprise E3,South,California,4,Cheque,3,0
+Office 365 Enterprise E5,South,California,1,CCard,3,0
+Office 365 Enterprise E3,South,Montana,3,Online,9,1
+Office 365 Enterprise E5,North,Montana,1,Online,7,1
+Office 365 ProPlus,West,Montana,4,Online,8,1
+Office 365 Enterprise E5,South,Montana,3,CCard,9,0
+Office 365 Enterprise E3,South,Montana,3,CCard,6,1
+Office 365 Enterprise E3,East,California,1,Online,4,1
+Office 365 Enterprise E1,South,California,4,CCard,1,0
+Office 365 ProPlus,East,Montana,4,Online,8,1
+Office 365 Enterprise E5,West,Texas,3,CCard,7,1
+Office 365 Enterprise E1,North,Montana,1,Cheque,2,1
+Office 365 Enterprise E5,North,Texas,2,Cheque,8,1
+Office 365 Enterprise E5,West,Montana,2,Online,5,0
+Office 365 Enterprise E1,North,Montana,4,CCard,7,1
+Office 365 Enterprise E1,West,California,2,CCard,4,1
+Office 365 Enterprise E1,West,Texas,4,Cheque,5,0
+Office 365 Enterprise E1,West,Texas,4,Cheque,8,1
+Office 365 Enterprise E1,North,California,4,CCard,1,0
+Office 365 Enterprise E5,East,California,2,CCard,1,0
+Office 365 Enterprise E1,West,California,4,CCard,4,0
+Office 365 ProPlus,South,California,3,CCard,3,1
+Office 365 Enterprise E3,North,Texas,1,CCard,2,0
+Office 365 Enterprise E1,West,Texas,1,CCard,3,0
+Office 365 Enterprise E1,West,Montana,4,Online,1,0
+Office 365 Enterprise E5,South,Montana,1,CCard,1,1
+Office 365 Enterprise E1,East,California,2,Cheque,6,1
+Office 365 Enterprise E1,East,California,2,Online,5,1
+Office 365 Enterprise E1,East,California,1,CCard,8,1
+Office 365 Enterprise E5,West,Montana,2,Cheque,2,1
+Office 365 Enterprise E1,West,Montana,1,Online,4,1
+Office 365 Enterprise E3,West,Montana,1,Cheque,8,1
+Office 365 Enterprise E5,North,Montana,1,CCard,6,0
+Office 365 Enterprise E3,South,Montana,4,CCard,1,0
+Office 365 Enterprise E5,West,Montana,1,CCard,4,0
+Office 365 Enterprise E1,South,Montana,4,CCard,1,0
+Office 365 Enterprise E3,South,California,1,Online,2,1
+Office 365 Enterprise E5,East,California,1,Online,5,0
+Office 365 ProPlus,North,California,1,Cheque,8,0
+Office 365 Enterprise E1,West,California,2,CCard,8,0
+Office 365 Enterprise E5,East,Montana,4,Cheque,3,0
+Office 365 ProPlus,East,Texas,4,Online,4,1
+Office 365 Enterprise E5,West,Montana,1,CCard,6,1
+Office 365 ProPlus,South,Texas,1,CCard,3,1
+Office 365 Enterprise E1,East,California,2,Online,2,0
+Office 365 Enterprise E3,South,Montana,2,Online,6,1
+Office 365 ProPlus,North,California,2,Online,5,0
+Office 365 Enterprise E5,South,Montana,4,Online,5,1
+Office 365 Enterprise E1,North,California,4,Online,5,1
+Office 365 ProPlus,South,Texas,4,CCard,5,1
+Office 365 Enterprise E5,East,Texas,1,Online,3,1
+Office 365 Enterprise E5,East,Texas,4,CCard,7,1
+Office 365 Enterprise E5,North,Montana,3,CCard,6,0
+Office 365 ProPlus,West,Texas,3,Online,4,1
+Office 365 ProPlus,North,Montana,2,Online,2,0
+Office 365 ProPlus,North,Texas,4,CCard,9,0
+Office 365 Enterprise E3,South,Texas,3,Online,1,0
+Office 365 ProPlus,South,Montana,2,Online,4,0
+Office 365 ProPlus,North,Montana,4,Online,1,0
+Office 365 ProPlus,East,Texas,1,Cheque,6,1
+Office 365 Enterprise E3,South,Montana,3,CCard,4,1
+Office 365 ProPlus,West,Texas,1,Cheque,5,1
+Office 365 Enterprise E5,South,Montana,4,Online,5,1
+Office 365 ProPlus,South,California,3,Cheque,9,0
+Office 365 Enterprise E5,West,California,4,Online,1,1
+Office 365 Enterprise E5,North,California,1,Cheque,2,1
+Office 365 Enterprise E5,West,California,3,Online,6,0
+Office 365 Enterprise E3,North,California,1,Cheque,5,0
+Office 365 Enterprise E3,North,Texas,4,Cheque,7,1
+Office 365 Enterprise E3,North,California,4,Cheque,3,1
+Office 365 ProPlus,West,California,1,CCard,3,0
+Office 365 Enterprise E5,North,California,3,Cheque,2,1
+Office 365 Enterprise E3,East,California,1,CCard,3,1
+Office 365 Enterprise E3,West,Montana,4,Online,1,1
+Office 365 ProPlus,East,Texas,1,Cheque,5,1
+Office 365 Enterprise E3,North,California,4,Online,5,0
+Office 365 ProPlus,South,California,1,Online,7,0
+Office 365 Enterprise E1,North,California,3,Cheque,4,0
+Office 365 Enterprise E3,East,Texas,3,CCard,3,1
+Office 365 Enterprise E1,East,Montana,1,Cheque,1,1
+Office 365 ProPlus,West,Texas,1,Online,8,1
+Office 365 Enterprise E5,South,Montana,3,Online,3,1
+Office 365 Enterprise E3,West,California,4,Cheque,2,1
+Office 365 ProPlus,East,California,3,CCard,4,0
+Office 365 Enterprise E5,North,Texas,4,CCard,3,1
+Office 365 Enterprise E5,South,Texas,1,Online,1,1
+Office 365 Enterprise E1,North,Montana,1,Online,3,0
+Office 365 ProPlus,North,Montana,4,CCard,2,1
+Office 365 Enterprise E5,South,Texas,1,Cheque,8,0
+Office 365 Enterprise E3,West,Montana,4,Online,6,0
+Office 365 Enterprise E3,North,Texas,2,CCard,9,0
+Office 365 Enterprise E1,East,Montana,3,Online,8,0
+Office 365 Enterprise E5,North,Texas,2,Cheque,3,0
+Office 365 ProPlus,South,Texas,4,CCard,5,1
+Office 365 Enterprise E3,South,Texas,3,Online,7,0
+Office 365 Enterprise E5,South,Montana,4,Cheque,5,0
+Office 365 Enterprise E5,West,Montana,3,Online,8,1
+Office 365 Enterprise E1,North,Montana,3,Cheque,5,1
+Office 365 Enterprise E3,West,Texas,3,Cheque,1,0
+Office 365 Enterprise E3,West,Montana,3,CCard,5,1
+Office 365 ProPlus,South,Montana,4,Cheque,4,1
+Office 365 Enterprise E3,South,Texas,3,Online,6,0
+Office 365 ProPlus,West,California,3,Cheque,3,0
+Office 365 Enterprise E3,North,Texas,2,Cheque,5,1
+Office 365 Enterprise E1,East,Montana,1,CCard,2,0
+Office 365 Enterprise E3,West,Texas,1,Cheque,6,0
+Office 365 ProPlus,North,California,2,Cheque,6,1
+Office 365 ProPlus,South,Texas,2,Online,5,0
+Office 365 Enterprise E1,South,Montana,4,CCard,6,0
+Office 365 Enterprise E3,North,California,4,CCard,7,0
+Office 365 Enterprise E3,East,Montana,4,CCard,5,0
+Office 365 Enterprise E1,South,California,2,Cheque,1,0
+Office 365 Enterprise E3,South,California,2,CCard,8,1
+Office 365 Enterprise E3,South,Texas,3,Cheque,4,1
+Office 365 ProPlus,North,Texas,4,Cheque,9,0
+Office 365 Enterprise E3,West,Montana,4,Online,6,1
+Office 365 Enterprise E3,South,Texas,4,Online,1,0
+Office 365 Enterprise E1,West,Texas,1,Online,3,0
+Office 365 Enterprise E1,East,California,3,Online,3,0
+Office 365 Enterprise E5,South,Texas,4,Online,4,0
+Office 365 ProPlus,South,California,4,Cheque,6,0
+Office 365 Enterprise E3,East,California,4,Cheque,7,1
+Office 365 Enterprise E3,South,California,1,CCard,4,1
+Office 365 Enterprise E5,West,Montana,1,Cheque,6,0
+Office 365 Enterprise E3,North,Montana,2,Cheque,1,1
+Office 365 ProPlus,West,Montana,3,Online,8,0
+Office 365 Enterprise E5,North,California,2,Cheque,7,1
+Office 365 ProPlus,North,Montana,3,Online,9,0
+Office 365 Enterprise E5,West,Montana,1,CCard,3,1
+Office 365 Enterprise E5,West,Texas,4,CCard,2,0
+Office 365 Enterprise E1,West,Montana,2,Cheque,1,0
+Office 365 ProPlus,West,Montana,4,CCard,3,1
+Office 365 Enterprise E3,East,California,2,Cheque,5,1
+Office 365 Enterprise E3,South,California,1,CCard,2,0
+Office 365 ProPlus,North,California,1,Online,3,1
+Office 365 Enterprise E3,West,California,1,Online,4,0
+Office 365 Enterprise E3,West,California,2,Online,7,1
+Office 365 ProPlus,West,California,3,Online,3,1
+Office 365 Enterprise E5,East,Montana,2,Cheque,9,0
+Office 365 ProPlus,West,California,3,CCard,8,1
+Office 365 Enterprise E5,West,California,2,Cheque,4,1
+Office 365 Enterprise E3,West,Texas,2,Online,1,0
+Office 365 Enterprise E3,South,Montana,1,Cheque,1,1
+Office 365 Enterprise E3,East,Montana,4,CCard,1,0
+Office 365 Enterprise E1,West,Montana,4,Cheque,1,0
+Office 365 Enterprise E5,North,California,3,CCard,8,0
+Office 365 Enterprise E1,North,California,4,Cheque,3,0
+Office 365 Enterprise E1,North,California,2,CCard,6,0
+Office 365 ProPlus,East,Texas,2,CCard,3,1
+Office 365 Enterprise E1,East,California,1,Online,5,0
+Office 365 ProPlus,North,Texas,1,CCard,7,0
+Office 365 ProPlus,West,Montana,4,Online,2,1
+Office 365 Enterprise E1,East,California,3,Online,6,1
+Office 365 Enterprise E5,North,Texas,4,Online,6,1
+Office 365 Enterprise E5,North,Texas,4,Cheque,3,0
+Office 365 Enterprise E5,West,California,4,Cheque,6,0
+Office 365 Enterprise E5,South,Montana,4,Cheque,5,0
+Office 365 Enterprise E5,East,Montana,2,Cheque,2,1
+Office 365 Enterprise E1,West,Montana,3,CCard,9,0
+Office 365 Enterprise E1,North,Texas,2,CCard,8,1
+Office 365 Enterprise E3,North,Texas,3,Cheque,3,0
+Office 365 Enterprise E5,West,Texas,1,CCard,8,1
+Office 365 Enterprise E1,East,Texas,4,CCard,9,0
+Office 365 Enterprise E3,South,Montana,2,Online,3,0
+Office 365 Enterprise E5,South,California,3,Online,3,0
+Office 365 ProPlus,North,Texas,1,Online,2,1
+Office 365 Enterprise E3,East,Texas,1,Online,8,1
+Office 365 Enterprise E1,South,Montana,4,CCard,1,0
+Office 365 ProPlus,East,California,3,Cheque,8,0
+Office 365 ProPlus,East,California,2,CCard,7,0
+Office 365 ProPlus,North,Montana,4,CCard,7,1
+Office 365 Enterprise E3,South,Montana,2,CCard,3,0
+Office 365 Enterprise E1,West,California,1,Online,1,0
+Office 365 ProPlus,North,Texas,2,Online,4,0
+Office 365 Enterprise E5,South,California,2,Online,9,0
+Office 365 ProPlus,South,Montana,4,Cheque,5,1
+Office 365 ProPlus,South,Texas,2,CCard,1,1
+Office 365 Enterprise E3,South,Texas,4,Cheque,5,0
+Office 365 Enterprise E3,South,Montana,1,Online,8,0
+Office 365 Enterprise E1,East,Montana,4,Cheque,8,1
+Office 365 Enterprise E5,North,Montana,4,CCard,5,1
+Office 365 Enterprise E3,East,California,3,CCard,9,0
+Office 365 ProPlus,West,California,2,Online,1,1
+Office 365 Enterprise E1,South,Texas,1,Online,4,1
+Office 365 ProPlus,North,Montana,4,Cheque,3,0
+Office 365 ProPlus,South,Texas,1,Online,2,1
+Office 365 Enterprise E3,North,Texas,3,Online,8,1
+Office 365 Enterprise E1,East,Texas,2,CCard,7,0
+Office 365 Enterprise E5,North,Texas,4,Online,9,0
+Office 365 Enterprise E5,West,Montana,2,Online,2,1
+Office 365 Enterprise E3,West,Texas,3,CCard,4,0
+Office 365 Enterprise E3,North,Montana,3,CCard,6,1
+Office 365 Enterprise E1,North,Montana,1,Cheque,3,0
+Office 365 Enterprise E5,North,California,4,Online,8,1
+Office 365 Enterprise E5,North,Montana,1,CCard,3,0
+Office 365 Enterprise E5,West,California,3,Cheque,2,1
+Office 365 ProPlus,South,Montana,2,Cheque,3,1
+Office 365 Enterprise E5,North,Montana,1,Online,6,1
+Office 365 ProPlus,North,Montana,1,Online,2,0
+Office 365 Enterprise E1,West,California,2,Cheque,8,0
+Office 365 ProPlus,West,California,1,CCard,1,1
+Office 365 Enterprise E1,East,Texas,2,Cheque,7,1
+Office 365 Enterprise E5,North,California,4,Online,2,0
+Office 365 Enterprise E5,East,California,2,CCard,6,0
+Office 365 Enterprise E1,West,California,4,CCard,2,0
+Office 365 Enterprise E3,West,California,2,Cheque,2,0
+Office 365 Enterprise E1,South,Texas,3,Online,8,0
+Office 365 Enterprise E3,North,California,3,Cheque,2,0
+Office 365 ProPlus,East,Montana,4,Cheque,7,1
+Office 365 ProPlus,West,Montana,4,Cheque,3,0
+Office 365 ProPlus,West,California,3,CCard,8,1
+Office 365 Enterprise E5,East,California,4,CCard,7,0
+Office 365 ProPlus,South,Montana,2,Online,8,0
+Office 365 Enterprise E3,West,Montana,2,Online,7,1
+Office 365 ProPlus,North,Texas,3,Cheque,6,1
+Office 365 Enterprise E1,West,Montana,1,Cheque,7,0
+Office 365 Enterprise E1,North,Montana,2,Cheque,5,1
+Office 365 Enterprise E5,East,California,4,Online,7,1
+Office 365 Enterprise E1,North,Montana,1,CCard,1,1
+Office 365 Enterprise E3,East,Texas,1,CCard,1,1
+Office 365 ProPlus,North,Montana,2,Cheque,9,0
+Office 365 Enterprise E5,East,California,2,Cheque,5,1
+Office 365 ProPlus,North,California,1,Cheque,5,0
+Office 365 ProPlus,South,Montana,1,Cheque,3,0
+Office 365 Enterprise E3,North,California,3,Online,5,0
+Office 365 Enterprise E1,North,Texas,4,CCard,3,0
+Office 365 Enterprise E1,South,Texas,3,Cheque,9,1
+Office 365 ProPlus,West,Montana,2,Online,9,1
+Office 365 Enterprise E5,West,Montana,3,Cheque,6,0
+Office 365 Enterprise E1,North,Montana,3,Cheque,1,0
+Office 365 Enterprise E5,South,California,3,CCard,7,0
+Office 365 Enterprise E1,North,Texas,3,Cheque,7,0
+Office 365 Enterprise E5,East,Texas,4,CCard,4,1
+Office 365 Enterprise E3,East,California,4,CCard,8,0
+Office 365 Enterprise E5,North,Texas,1,CCard,6,1
+Office 365 Enterprise E3,West,Montana,2,Online,4,0
+Office 365 Enterprise E3,West,Montana,3,Online,4,0
+Office 365 Enterprise E5,North,Montana,1,CCard,2,0
+Office 365 Enterprise E3,North,Texas,1,Cheque,2,0
+Office 365 ProPlus,East,Montana,1,CCard,4,1
+Office 365 Enterprise E3,West,California,4,Cheque,5,1
+Office 365 Enterprise E1,North,California,3,CCard,8,1
+Office 365 Enterprise E5,East,Texas,3,Cheque,6,0
+Office 365 ProPlus,West,California,2,Online,4,0
+Office 365 Enterprise E5,South,California,3,Cheque,7,1
+Office 365 Enterprise E1,East,Texas,3,CCard,8,1
+Office 365 Enterprise E1,West,Montana,1,Online,2,0
+Office 365 Enterprise E1,West,Montana,2,Cheque,7,0
+Office 365 Enterprise E3,East,Montana,3,Cheque,2,1
+Office 365 Enterprise E3,South,Texas,4,Cheque,2,0
+Office 365 Enterprise E5,East,California,3,Cheque,8,0
+Office 365 Enterprise E5,West,Montana,1,Cheque,2,1
+Office 365 ProPlus,North,Montana,4,Online,9,0
+Office 365 ProPlus,North,Texas,1,Online,1,1
+Office 365 Enterprise E5,East,Montana,3,Online,9,0
+Office 365 Enterprise E3,West,Texas,4,Online,1,1
+Office 365 Enterprise E1,North,California,2,CCard,2,0
+Office 365 Enterprise E5,West,Texas,2,Online,6,1
+Office 365 ProPlus,East,Texas,4,Cheque,6,1
+Office 365 Enterprise E3,North,Texas,4,Cheque,1,1
+Office 365 Enterprise E5,West,Texas,1,Online,7,1
+Office 365 Enterprise E5,North,California,4,Cheque,8,0
+Office 365 Enterprise E3,East,California,1,Online,2,0
+Office 365 Enterprise E5,West,Montana,3,Cheque,8,1
+Office 365 Enterprise E3,North,California,1,CCard,9,0
+Office 365 Enterprise E1,East,California,4,CCard,6,0
+Office 365 Enterprise E3,North,Montana,4,Online,5,0
+Office 365 Enterprise E3,North,California,3,Online,9,0
+Office 365 Enterprise E3,South,Texas,4,Online,9,0
+Office 365 Enterprise E5,South,Texas,4,Cheque,1,1
+Office 365 Enterprise E5,East,Montana,2,Online,3,1
+Office 365 Enterprise E3,South,Montana,2,CCard,9,1
+Office 365 Enterprise E5,East,Montana,3,Cheque,2,1
+Office 365 ProPlus,South,Texas,1,Online,4,0
+Office 365 ProPlus,North,California,2,Cheque,4,0
+Office 365 Enterprise E5,East,Texas,1,Cheque,2,1
+Office 365 Enterprise E5,East,Montana,4,Online,3,0
+Office 365 Enterprise E3,North,California,2,Cheque,3,0
+Office 365 Enterprise E1,East,California,3,CCard,1,1
+Office 365 Enterprise E5,East,Texas,3,CCard,6,0
+Office 365 ProPlus,South,Montana,3,Cheque,8,1
+Office 365 Enterprise E3,East,Texas,2,Online,3,1
+Office 365 Enterprise E5,West,California,1,Cheque,5,0
+Office 365 ProPlus,North,Texas,4,CCard,1,0
+Office 365 ProPlus,South,Texas,1,Cheque,7,1
+Office 365 Enterprise E1,South,Montana,1,Cheque,1,1
+Office 365 Enterprise E3,West,Montana,4,CCard,9,0
+Office 365 Enterprise E3,North,California,4,Cheque,8,1
+Office 365 Enterprise E1,North,Texas,2,Cheque,7,1
+Office 365 Enterprise E1,South,Texas,2,Online,7,1
+Office 365 Enterprise E3,East,Texas,2,Online,5,0
+Office 365 Enterprise E3,South,California,2,CCard,5,1
+Office 365 Enterprise E5,North,California,2,CCard,5,0
+Office 365 Enterprise E5,West,Montana,4,CCard,1,1
+Office 365 Enterprise E1,South,Montana,1,Online,8,0
+Office 365 Enterprise E5,North,Montana,2,CCard,1,1
+Office 365 ProPlus,South,Texas,2,CCard,4,0
+Office 365 Enterprise E5,East,Texas,1,CCard,9,0
+Office 365 Enterprise E5,South,Montana,2,Online,9,0
+Office 365 ProPlus,South,Texas,1,Cheque,5,1
+Office 365 Enterprise E1,North,Montana,1,CCard,4,1
+Office 365 ProPlus,North,California,4,Cheque,3,1
+Office 365 Enterprise E5,North,Montana,3,CCard,3,0
+Office 365 Enterprise E1,South,California,4,Cheque,5,1
+Office 365 Enterprise E5,East,Texas,3,Online,1,0
+Office 365 ProPlus,West,Montana,3,Online,5,1
+Office 365 ProPlus,West,Texas,3,CCard,6,0
+Office 365 Enterprise E5,North,California,2,Cheque,7,0
+Office 365 Enterprise E3,North,California,4,Online,9,0
+Office 365 Enterprise E3,South,California,3,CCard,3,1
+Office 365 ProPlus,West,Texas,1,CCard,2,1
+Office 365 ProPlus,North,Texas,2,Online,3,1
+Office 365 Enterprise E3,East,Texas,4,Online,9,0
+Office 365 Enterprise E3,East,Texas,3,CCard,7,0
+Office 365 Enterprise E5,North,California,1,Cheque,9,1
+Office 365 Enterprise E5,North,California,4,Cheque,2,1
+Office 365 Enterprise E3,West,Montana,4,Cheque,5,1
+Office 365 Enterprise E5,West,Montana,2,CCard,4,0
+Office 365 Enterprise E5,South,Texas,4,Online,2,0
+Office 365 Enterprise E1,West,California,2,CCard,9,0
+Office 365 Enterprise E5,East,California,3,Online,9,0
+Office 365 ProPlus,East,California,2,Cheque,6,0
+Office 365 Enterprise E5,North,Montana,1,Cheque,6,1
+Office 365 Enterprise E5,West,Montana,2,Online,8,0
+Office 365 Enterprise E3,South,California,1,Online,6,0
+Office 365 ProPlus,East,California,2,CCard,1,0
+Office 365 Enterprise E5,East,California,4,Cheque,4,0
+Office 365 Enterprise E5,South,Montana,3,CCard,7,0
+Office 365 Enterprise E1,South,California,1,CCard,2,1
+Office 365 Enterprise E5,East,California,2,CCard,9,0
+Office 365 Enterprise E5,East,Texas,2,Cheque,8,0
+Office 365 Enterprise E1,South,Texas,2,CCard,8,0
+Office 365 Enterprise E3,East,Montana,4,CCard,7,1
+Office 365 Enterprise E5,North,California,4,CCard,4,1
+Office 365 Enterprise E1,North,California,1,CCard,2,1
+Office 365 ProPlus,South,Texas,1,CCard,3,0
+Office 365 Enterprise E3,West,Montana,4,CCard,6,1
+Office 365 ProPlus,South,Texas,1,Cheque,5,0
+Office 365 ProPlus,South,Texas,3,CCard,8,0
+Office 365 Enterprise E1,West,Texas,3,Online,6,1
+Office 365 Enterprise E5,West,Texas,4,CCard,6,0
+Office 365 Enterprise E1,West,California,1,CCard,1,0
+Office 365 Enterprise E1,North,California,2,Cheque,4,0
+Office 365 Enterprise E1,East,Texas,3,Cheque,5,1
+Office 365 Enterprise E1,North,Montana,4,Online,3,0
+Office 365 Enterprise E3,East,Montana,1,Online,9,0
+Office 365 Enterprise E5,North,Montana,4,Cheque,1,1
+Office 365 ProPlus,East,Montana,2,Cheque,6,0
+Office 365 ProPlus,North,Texas,3,CCard,6,0
+Office 365 Enterprise E5,West,California,4,Cheque,5,1
+Office 365 ProPlus,South,Montana,4,Online,5,0
+Office 365 Enterprise E5,North,Texas,4,CCard,5,0
+Office 365 ProPlus,East,Montana,2,Online,6,0
+Office 365 Enterprise E1,West,Montana,4,CCard,8,0
+Office 365 ProPlus,North,Texas,2,Cheque,2,0
+Office 365 Enterprise E5,North,California,2,Online,6,1
+Office 365 Enterprise E5,West,California,2,CCard,1,1
+Office 365 Enterprise E5,North,Texas,3,CCard,4,1
+Office 365 Enterprise E5,South,California,3,Cheque,3,1
+Office 365 Enterprise E5,North,Texas,4,Cheque,9,0
+Office 365 Enterprise E3,South,Texas,4,Cheque,3,0
+Office 365 Enterprise E3,South,Texas,3,Online,6,0
+Office 365 ProPlus,West,California,1,CCard,1,0
+Office 365 Enterprise E5,North,Texas,3,Cheque,6,0
+Office 365 ProPlus,West,Montana,2,Online,4,1
+Office 365 Enterprise E5,North,California,3,Online,8,1
+Office 365 Enterprise E5,North,California,2,Online,9,0
+Office 365 Enterprise E3,East,California,4,Cheque,4,0
+Office 365 Enterprise E3,North,California,1,Cheque,6,0
+Office 365 Enterprise E1,West,Montana,4,CCard,1,1
+Office 365 Enterprise E3,South,California,2,CCard,4,0
+Office 365 Enterprise E1,North,California,2,Cheque,7,0
+Office 365 Enterprise E1,East,Texas,2,Online,1,0
+Office 365 Enterprise E1,West,California,1,Online,8,1
+Office 365 Enterprise E1,North,Montana,3,Online,6,0
+Office 365 Enterprise E1,West,Montana,4,CCard,5,1
+Office 365 ProPlus,East,Montana,4,Online,9,1
+Office 365 Enterprise E3,East,Montana,3,CCard,2,1
+Office 365 Enterprise E1,West,California,4,CCard,5,1
+Office 365 Enterprise E5,North,California,1,Online,6,1
+Office 365 Enterprise E3,South,Montana,4,Online,7,1
+Office 365 Enterprise E3,East,Montana,2,Cheque,5,0
+Office 365 Enterprise E1,North,California,3,Cheque,9,0
+Office 365 ProPlus,North,Montana,1,Online,1,0
+Office 365 Enterprise E1,South,Texas,3,CCard,7,1
+Office 365 ProPlus,East,Montana,1,CCard,7,0
+Office 365 Enterprise E5,East,Montana,2,CCard,4,1
+Office 365 Enterprise E3,North,Texas,3,CCard,9,1
+Office 365 Enterprise E5,North,Texas,4,CCard,5,1
+Office 365 ProPlus,South,California,1,Cheque,4,0
+Office 365 ProPlus,South,California,3,Online,7,1
+Office 365 Enterprise E5,East,Texas,4,Cheque,4,1
+Office 365 ProPlus,West,Texas,3,CCard,3,0
+Office 365 Enterprise E5,East,California,3,CCard,9,0
+Office 365 Enterprise E3,North,Montana,3,CCard,8,1
+Office 365 Enterprise E5,East,Texas,1,CCard,1,1
+Office 365 Enterprise E3,West,California,4,Online,7,0
+Office 365 Enterprise E5,South,Montana,2,CCard,9,0
+Office 365 ProPlus,West,Texas,1,Online,8,0
+Office 365 Enterprise E5,West,Montana,1,CCard,8,1
+Office 365 ProPlus,West,California,1,Online,6,0
+Office 365 Enterprise E5,South,Texas,2,Cheque,4,0
+Office 365 Enterprise E5,West,Montana,4,CCard,8,0
+Office 365 Enterprise E1,West,Texas,4,Online,3,1
+Office 365 ProPlus,West,Montana,4,Cheque,9,0
+Office 365 Enterprise E1,North,California,3,CCard,2,0
+Office 365 ProPlus,West,California,3,CCard,2,0
+Office 365 Enterprise E1,South,Texas,3,CCard,7,0
+Office 365 Enterprise E3,West,Montana,2,Online,4,0
+Office 365 Enterprise E5,West,Texas,3,Online,8,1
+Office 365 ProPlus,South,Texas,2,Cheque,9,1
+Office 365 ProPlus,West,Montana,4,Online,7,1
+Office 365 Enterprise E5,South,Montana,3,Online,5,0
+Office 365 ProPlus,West,Montana,3,CCard,8,1
+Office 365 ProPlus,South,California,1,CCard,4,1
+Office 365 Enterprise E1,West,Texas,2,CCard,2,1
+Office 365 ProPlus,West,Texas,4,CCard,6,0
+Office 365 Enterprise E3,North,California,1,CCard,9,0
+Office 365 Enterprise E3,North,Montana,1,CCard,1,1
+Office 365 Enterprise E5,West,California,4,CCard,7,1
+Office 365 ProPlus,West,California,1,Cheque,9,0
+Office 365 Enterprise E5,East,California,2,Cheque,9,0

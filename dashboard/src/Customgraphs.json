@@ -1,0 +1,35 @@
+{
+    "graphs": [
+      {
+        "graphName": "Sales by Product",
+        "graphType": "line",
+        "xAxis": "Product_Name",
+        "yAxis": "Sale_Quantity"
+      },
+      {
+        "graphName": "Sales by Region",
+        "graphType": "bar",
+        "xAxis": "Region",
+        "yAxis": "Sale_Amount"
+      },
+      {
+        "graphName": "Monthly Sales",
+        "graphType": "line",
+        "xAxis": "Month",
+        "yAxis": "Sale_Amount"
+      },
+      {
+        "graphName": "Quarterly Sales",
+        "graphType": "bar",
+        "xAxis": "Quarter",
+        "yAxis": "Sale_Quantity"
+      },
+      {
+        "graphName": "Quarterly Sales",
+        "graphType": "bar",
+        "xAxis": "Quarter",
+        "yAxis": "Sale_Quantity"
+      }
+    ]
+  }
+  

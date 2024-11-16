@@ -1,0 +1,30 @@
+{ 
+    "sales_dashboard": [
+      "Product_ID",
+      "Product_Name",
+      "Region",
+      "Month",
+      "Year",
+      "Quarter",
+      "Sale_Amount",
+      "Sale_Quantity"
+    ],
+    "agent_commissions_dashboard": [
+      "Agent_ID",
+      "Sales_Closed",
+      "Total_Commission",
+      "Average_Commission_per_Sale",
+      "Region",
+      "Commission_Date"
+    ],
+    "subscription_dashboard": [
+      "Product_Name",
+      "Subscriber_ID",
+      "State",
+      "Customer_Satisfaction_Score",
+      "Payment_Method",
+      "Aging",
+      "Churn_new"
+    ]
+  }
+  

@@ -1,0 +1,93 @@
+/* src/HomePage.module.css */
+.homePage {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background: url('../Assets/img5.jpg') no-repeat;
+    /* background-color: #75acaf; */
+
+    background-size: cover; 
+    /* background-color: #f0f0f0; */
+    padding: 20px; /* Add padding to ensure cards are not too close to the edges */
+  }
+  
+  .card {
+    width: 350px;
+    height: 250px;
+    padding: 20px;
+    border: 1px solid #91dfe3;
+    border-radius: 8px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    box-shadow: 0 4px 8px #91dfe3;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: transparent;
+    transition: background 0.3s ease;
+  }
+  
+  .card:hover::before {
+    background: linear-gradient(to bottom, #91dfe3, #91dfe3);
+  }
+  
+  .card h2 {
+    color: #0d0d0d; /* White heading color */
+    margin: 0;
+    padding: 10px;
+    background-color:#91dfe3; /* Semi-transparent background */
+    position: relative;
+    width: 100%;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    z-index: 1; /* Ensure text is above the gradient */
+  }
+  
+  .card:active {
+    transform: translateY(0) scale(0.95); /* Press down effect */
+    box-shadow: 0 4px 8px Semi-transparent; /* Reduce shadow on click */
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card h2 {
+    position: absolute;
+    top: 10px; /* Position text at the top of the card */
+    width: 100%;
+    background: none;
+    color: rgb(12, 12, 12);
+    padding: 60px 0;
+    margin: 0;
+    font-size: 24px;
+    transition: background 0.3s ease;
+  }
+  
+  .card:hover h2 {
+    background: none; /* Ensure no background on hover for text */
+  }
+
+
+/* .container{
+    background: url('../Assets/img3.jpg') no-repeat;
+}
+
+   */

@@ -1,0 +1,173 @@
+/* Google Fonts import for a high-quality font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Resetting default margins and paddings */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.sales-navbar {
+  background-color:  #20b3ab;
+  /* background-color: #009688; Corporate level color */
+  padding: 5px;
+}
+
+.sales-navbar ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-title {
+  padding-left: 70px;
+  flex-grow: 1; /* Take up remaining space */
+  font-family: 'Roboto', sans-serif; /* Use the chosen font family */
+  font-size: 1.5em; /* Base font size, adjust as needed */
+  font-weight: 700; /* Bold weight */
+  color: white; /* Text color */
+  white-space: nowrap; /* Prevent wrapping */
+  overflow: hidden; /* Hide overflow */
+  text-overflow: ellipsis; /* Add ellipsis for overflow text */
+}
+
+.dropdown-toggle {
+  color: white;
+}
+
+.sales-navbar ul li {
+  margin: 0 10px;
+  position: relative;
+}
+
+.sales-navbar ul li .product-dropdown,
+.sales-navbar ul li .region-dropdown,
+.sales-navbar ul li .months-dropdown,
+.sales-navbar ul li .quarters-dropdown,
+.sales-navbar ul li .years-dropdown {
+  display: none; /* Initially hide dropdown */
+  position: absolute;
+  background-color: #f9f9f9; /* Light background for dropdown */
+  min-width: 160px;
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for dropdown */
+}
+
+.sales-navbar ul li select,
+.sales-navbar ul li p,
+.sales-navbar ul li span {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+.sales-navbar ul li select:hover,
+.sales-navbar ul li p:hover,
+.sales-navbar ul li span:hover {
+  color: black;
+  background-color: #9fd3c7;
+  /* background-color:#00695C; Darker shade on hover */
+}
+
+.region-dropdown,
+.product-dropdown,
+.months-dropdown,
+.quarters-dropdown,
+.years-dropdown {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Light background for dropdown */
+  min-width: 160px;
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for dropdown */
+}
+
+.sales-navbar ul li:hover .product-dropdown,
+.sales-navbar ul li:hover .region-dropdown,
+.sales-navbar ul li:hover .months-dropdown,
+.sales-navbar ul li:hover .quarters-dropdown,
+.sales-navbar ul li:hover .years-dropdown {
+  display: block;
+}
+
+.product-dropdown li,
+.region-dropdown li,
+.months-dropdown li,
+.quarters-dropdown li,
+.years-dropdown li {
+  padding: 10px;
+}
+
+.product-dropdown li a,
+.region-dropdown li a,
+.months-dropdown li a,
+.quarters-dropdown li a,
+.years-dropdown li a {
+  color: #333; /* Dark text color for dropdown items */
+  text-decoration: none;
+}
+
+.product-dropdown li a:hover,
+.region-dropdown li a:hover,
+.months-dropdown li a:hover,
+.quarters-dropdown li a:hover,
+.years-dropdown li a:hover {
+  background-color: #ddd; /* Light grey on hover */
+  color: #000; /* Black text on hover */
+}
+
+.sales-navbar ul li ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.sales-navbar ul li ul li {
+  margin: 0;
+}
+
+.charts-container {
+  margin: 5px;
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns per row */
+  grid-template-rows: auto; /* Auto rows */
+  /* gap: 10px; Gap between grid items */
+}
+
+.chart-container {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  height: 470px;
+   /* Fill the height of the container */
+  display: flex; /* Flexbox for alignment */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.chart-container canvas {
+  max-width: 100%; /* Ensure canvas stays within the container */
+  max-height: 100%; /* Ensure canvas stays within the container */
+}
+
+.pie-chart {
+  width: 50px;
+  height: 50px;
+}

@@ -1,0 +1,146 @@
+/* src/components/SalesDashboard.css */
+
+.sales-navbar {
+  background-color: #62ccc7; /* Corporate level color */
+  padding: 10px;
+}
+
+.sales-navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.sales-navbar ul li {
+  margin: 0 10px;
+  position: relative;
+}
+
+.sales-navbar ul li select,
+.sales-navbar ul li a,
+.sales-navbar ul li span {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  background-color: #62ccc7;
+  border: none;
+}
+
+.sales-navbar ul li select:hover,
+.sales-navbar ul li a:hover,
+.sales-navbar ul li span:hover {
+  background-color: #479fa4; /* Darker shade on hover */
+}
+.region-dropdown,
+.product-dropdown,
+.months-dropdown,
+.quarters-dropdown,
+.years-dropdown {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Light background for dropdown */
+  min-width: 160px;
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for dropdown */
+}
+.sales-navbar ul li:hover .product-dropdown,
+.sales-navbar ul li:hover .region-dropdown,
+.sales-navbar ul li:hover .months-dropdown,
+.sales-navbar ul li:hover .quarters-dropdown,
+.sales-navbar ul li:hover .years-dropdown {
+  display: block;
+}
+.product-dropdown li,
+.region-dropdown li,
+.months-dropdown li,
+.quarters-dropdown li,
+.years-dropdown li {
+  padding: 10px;
+}
+.product-dropdown li a,
+.region-dropdown li a,
+.months-dropdown li a,
+.quarters-dropdown li a,
+.years-dropdown li a {
+
+  color: #333; /* Dark text color for dropdown items */
+  text-decoration: none;
+}
+.product-dropdown li a:hover,
+.region-dropdown li a:hover,
+.months-dropdown li a:hover,
+.quarters-dropdown li a:hover,
+.years-dropdown li a:hover {
+  background-color: #ddd; /* Light grey on hover */
+  color: #000; /* Black text on hover */
+}
+
+.sales-navbar ul li ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.sales-navbar ul li ul li {
+  margin: 0;
+}
+
+
+.charts-container {
+  display: grid;
+  grid-template-columns:1fr 1fr;
+  grid-template-rows:0.5fr 0.5fr;
+  gap:5px;
+}
+
+.chart-container {
+  background-color: #ffffff;
+  border:1px solid #dddddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  /* padding:20px; */
+}
+
+.chart-container canvas{
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.product-dropdown,.region-dropdown {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+  margin: 0;
+  border: none; /* Remove borders */
+  max-height: 500px; /* Example: Limit dropdown height if it exceeds this */
+  overflow-y: auto; /* Enable scroll if dropdown exceeds max-height */
+}
+
+
+.product-dropdown li,.region-dropdown li {
+  padding: 2px 5px; /* Adjust padding of list items */
+}
+
+.product-dropdown li button,.region-dropdown li button {
+  background: none; /* Remove background color */
+  border: none; /* Remove button borders */
+  padding: 2px; /* Adjust button padding */
+  cursor: pointer;
+  width: 100%; /* Make buttons fill the width */
+  text-align: left; /* Align text to the left */
+}
+
+.product-dropdown li button:hover ,.region-dropdown li button:hover{
+  background-color: #ddd; /* Light grey on hover */
+  color: #000; /* Black text on hover */
+}

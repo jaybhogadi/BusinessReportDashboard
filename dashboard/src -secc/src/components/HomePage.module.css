@@ -1,0 +1,83 @@
+/* src/HomePage.module.css */
+.homePage {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    padding: 20px; /* Add padding to ensure cards are not too close to the edges */
+  }
+  
+  .card {
+    width: 350px;
+    height: 250px;
+    padding: 20px;
+    border: 1px solid #742a2a;
+    border-radius: 8px;
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+    transition: background 0.3s ease;
+  }
+  
+  .card:hover::before {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
+  }
+  
+  .card h2 {
+    color: #fff; /* White heading color */
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    position: relative;
+    width: 100%;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    z-index: 1; /* Ensure text is above the gradient */
+  }
+  
+  .card:active {
+    transform: translateY(0) scale(0.95); /* Press down effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Reduce shadow on click */
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card h2 {
+    position: absolute;
+    top: 10px; /* Position text at the top of the card */
+    width: 100%;
+    background: none;
+    color: white;
+    padding: 60px 0;
+    margin: 0;
+    font-size: 24px;
+    transition: background 0.3s ease;
+  }
+  
+  .card:hover h2 {
+    background: none; /* Ensure no background on hover for text */
+  }
+  

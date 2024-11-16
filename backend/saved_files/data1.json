@@ -1,0 +1,4002 @@
+[
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2902
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-10",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2209
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "West",
+    "Sales_Closed": 18,
+    "Total_Commission": 2474
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-21",
+    "Region": "South",
+    "Sales_Closed": 19,
+    "Total_Commission": 2417
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-07",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2346
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-27",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2528
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-16",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2639
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-29",
+    "Region": "North",
+    "Sales_Closed": 16,
+    "Total_Commission": 2938
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-05",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2954
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "East",
+    "Sales_Closed": 22,
+    "Total_Commission": 2875
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-06",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2762
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-20",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2178
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-09",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2181
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-05",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2663
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-27",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2024
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-18",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2966
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-07",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2179
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2709
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-18",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2500
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2855
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-23",
+    "Region": "West",
+    "Sales_Closed": 25,
+    "Total_Commission": 2160
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-28",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2176
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-13",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2284
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-19",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2062
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-23",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2661
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-21",
+    "Region": "West",
+    "Sales_Closed": 16,
+    "Total_Commission": 2665
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2155
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-21",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2881
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-01",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2468
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-15",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2048
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-01",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2966
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-15",
+    "Region": "North",
+    "Sales_Closed": 21,
+    "Total_Commission": 2848
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-13",
+    "Region": "East",
+    "Sales_Closed": 16,
+    "Total_Commission": 2083
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-24",
+    "Region": "West",
+    "Sales_Closed": 19,
+    "Total_Commission": 2360
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "North",
+    "Sales_Closed": 28,
+    "Total_Commission": 2688
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-13",
+    "Region": "West",
+    "Sales_Closed": 16,
+    "Total_Commission": 2147
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-07",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2629
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-05",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2341
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-18",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2475
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-27",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2062
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-25",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2700
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2359
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-13",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2560
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "South",
+    "Sales_Closed": 16,
+    "Total_Commission": 2326
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-19",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2768
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-12",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2735
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-06",
+    "Region": "East",
+    "Sales_Closed": 22,
+    "Total_Commission": 2140
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-31",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2989
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2214
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-17",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2434
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-23",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2890
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-19",
+    "Region": "South",
+    "Sales_Closed": 21,
+    "Total_Commission": 2951
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-01",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2722
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-20",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2317
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2031
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-12",
+    "Region": "North",
+    "Sales_Closed": 25,
+    "Total_Commission": 2669
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-29",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2284
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-10",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2304
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-04",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2428
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "East",
+    "Sales_Closed": 12,
+    "Total_Commission": 2476
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-09",
+    "Region": "North",
+    "Sales_Closed": 28,
+    "Total_Commission": 2285
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-29",
+    "Region": "East",
+    "Sales_Closed": 29,
+    "Total_Commission": 2143
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-12",
+    "Region": "South",
+    "Sales_Closed": 27,
+    "Total_Commission": 2423
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-08",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2018
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "West",
+    "Sales_Closed": 18,
+    "Total_Commission": 2017
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-05",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2768
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-15",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2589
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2370
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-28",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2174
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2193
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-16",
+    "Region": "South",
+    "Sales_Closed": 25,
+    "Total_Commission": 2501
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2987
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-20",
+    "Region": "South",
+    "Sales_Closed": 21,
+    "Total_Commission": 2112
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-15",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2113
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-06",
+    "Region": "North",
+    "Sales_Closed": 25,
+    "Total_Commission": 2221
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-27",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2677
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2946
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-08",
+    "Region": "North",
+    "Sales_Closed": 21,
+    "Total_Commission": 2830
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-21",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2643
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-24",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2896
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-10",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2263
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-08",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2924
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-29",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2054
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-21",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2870
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-10",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2642
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-17",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2799
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-18",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2777
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-20",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2457
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-13",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2978
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2877
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-19",
+    "Region": "East",
+    "Sales_Closed": 25,
+    "Total_Commission": 2161
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-11",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2379
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-20",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2992
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-20",
+    "Region": "East",
+    "Sales_Closed": 12,
+    "Total_Commission": 2086
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-26",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2054
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-21",
+    "Region": "North",
+    "Sales_Closed": 27,
+    "Total_Commission": 2475
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2799
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-18",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2177
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-26",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2390
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-12",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2348
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-11",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2007
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-30",
+    "Region": "East",
+    "Sales_Closed": 27,
+    "Total_Commission": 2832
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-24",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2312
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-26",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2758
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2834
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-12",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2983
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2982
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-16",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2442
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-20",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2766
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-08",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2327
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-12",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2053
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-11",
+    "Region": "East",
+    "Sales_Closed": 22,
+    "Total_Commission": 2760
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-11",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2238
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-11",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2228
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-07",
+    "Region": "South",
+    "Sales_Closed": 18,
+    "Total_Commission": 2578
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-07",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2050
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-19",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2608
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "South",
+    "Sales_Closed": 25,
+    "Total_Commission": 2603
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-25",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2263
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-22",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2417
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-05",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2802
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2095
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-12",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2087
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-21",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2077
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2287
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-29",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2119
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-07",
+    "Region": "West",
+    "Sales_Closed": 19,
+    "Total_Commission": 2813
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-11",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2490
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-12",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2911
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-01",
+    "Region": "North",
+    "Sales_Closed": 26,
+    "Total_Commission": 2451
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-08",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2499
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-19",
+    "Region": "West",
+    "Sales_Closed": 18,
+    "Total_Commission": 2164
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-11",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2181
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-19",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2468
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-19",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2909
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-20",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2734
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-26",
+    "Region": "East",
+    "Sales_Closed": 22,
+    "Total_Commission": 2822
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-15",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2943
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-22",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2977
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-28",
+    "Region": "North",
+    "Sales_Closed": 26,
+    "Total_Commission": 2006
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-30",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2329
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-13",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2774
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-29",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2672
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-04",
+    "Region": "North",
+    "Sales_Closed": 16,
+    "Total_Commission": 2150
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "West",
+    "Sales_Closed": 11,
+    "Total_Commission": 2084
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2146
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-25",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2623
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "West",
+    "Sales_Closed": 21,
+    "Total_Commission": 2380
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2914
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-15",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2547
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-18",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2284
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-07",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2699
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-19",
+    "Region": "East",
+    "Sales_Closed": 25,
+    "Total_Commission": 2081
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-01",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2513
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-11",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2896
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2814
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-23",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2708
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-28",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2915
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "North",
+    "Sales_Closed": 20,
+    "Total_Commission": 2522
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-26",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2745
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-26",
+    "Region": "North",
+    "Sales_Closed": 16,
+    "Total_Commission": 2385
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2706
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-29",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2470
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-06",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2118
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-14",
+    "Region": "North",
+    "Sales_Closed": 27,
+    "Total_Commission": 2395
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2531
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "East",
+    "Sales_Closed": 27,
+    "Total_Commission": 2260
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-30",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2804
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "North",
+    "Sales_Closed": 28,
+    "Total_Commission": 2933
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-17",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2255
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-02",
+    "Region": "East",
+    "Sales_Closed": 29,
+    "Total_Commission": 2733
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-19",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2904
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-19",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2225
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-11",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2052
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-15",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2939
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-16",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2866
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-04",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2499
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-04",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2505
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2853
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-07",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2363
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2279
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-21",
+    "Region": "West",
+    "Sales_Closed": 19,
+    "Total_Commission": 2592
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-14",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2713
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-17",
+    "Region": "East",
+    "Sales_Closed": 29,
+    "Total_Commission": 2157
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-14",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2631
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-04",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2058
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-19",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2726
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-21",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2127
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-01",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2735
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "North",
+    "Sales_Closed": 20,
+    "Total_Commission": 2720
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-24",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2881
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-11",
+    "Region": "East",
+    "Sales_Closed": 25,
+    "Total_Commission": 2114
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "West",
+    "Sales_Closed": 20,
+    "Total_Commission": 2208
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-01",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2525
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-11",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2520
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "South",
+    "Sales_Closed": 25,
+    "Total_Commission": 2551
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-08",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2961
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-05",
+    "Region": "West",
+    "Sales_Closed": 25,
+    "Total_Commission": 2236
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2280
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-12",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2358
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-27",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2200
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-01",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2757
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2277
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-30",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2234
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2493
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-16",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2003
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2665
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-16",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2441
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-31",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2028
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2108
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-17",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2609
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-08",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2726
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-17",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2804
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-08",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2074
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-11",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2837
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-30",
+    "Region": "West",
+    "Sales_Closed": 23,
+    "Total_Commission": 2145
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2127
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-06",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2852
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-17",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2041
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-12",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2355
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-05",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2040
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-18",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2933
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-30",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2033
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-01",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2016
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-06",
+    "Region": "North",
+    "Sales_Closed": 25,
+    "Total_Commission": 2676
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-30",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2152
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "East",
+    "Sales_Closed": 13,
+    "Total_Commission": 2997
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-30",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2377
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2587
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-10",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2598
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-13",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2628
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-26",
+    "Region": "South",
+    "Sales_Closed": 29,
+    "Total_Commission": 2873
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-19",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2341
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-10",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2980
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2026
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-04",
+    "Region": "West",
+    "Sales_Closed": 23,
+    "Total_Commission": 2824
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-10",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2286
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-30",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2645
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-02",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2730
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-12",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2167
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "East",
+    "Sales_Closed": 16,
+    "Total_Commission": 2609
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-03",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2267
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-16",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2748
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-28",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2820
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-16",
+    "Region": "West",
+    "Sales_Closed": 20,
+    "Total_Commission": 2454
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-29",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2905
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-26",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2684
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-15",
+    "Region": "East",
+    "Sales_Closed": 27,
+    "Total_Commission": 2400
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-02",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2921
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-26",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2980
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-18",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2475
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-03",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2701
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-14",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2633
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-17",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2557
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-04",
+    "Region": "North",
+    "Sales_Closed": 16,
+    "Total_Commission": 2575
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-01",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2129
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-11",
+    "Region": "South",
+    "Sales_Closed": 16,
+    "Total_Commission": 2821
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-08",
+    "Region": "West",
+    "Sales_Closed": 21,
+    "Total_Commission": 2362
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2704
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-22",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2818
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-07",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2692
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-02",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2291
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2370
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-06",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2793
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2028
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-25",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2148
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-25",
+    "Region": "North",
+    "Sales_Closed": 27,
+    "Total_Commission": 2778
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-24",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2295
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-23",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2010
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-04",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2511
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-21",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2675
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-28",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2112
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-09",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2186
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-29",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2806
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-11",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2743
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-22",
+    "Region": "West",
+    "Sales_Closed": 21,
+    "Total_Commission": 2226
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-14",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2309
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-08",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2097
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-01",
+    "Region": "South",
+    "Sales_Closed": 18,
+    "Total_Commission": 2054
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-15",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2622
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2663
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "South",
+    "Sales_Closed": 29,
+    "Total_Commission": 2757
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-10",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2405
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-23",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2068
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-10",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2311
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2288
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-29",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2761
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2547
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-06",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2750
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-19",
+    "Region": "East",
+    "Sales_Closed": 25,
+    "Total_Commission": 2147
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2466
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-07",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2738
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2243
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-02",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2490
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-26",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2848
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-07",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2957
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-15",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2506
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-08",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2364
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-01",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2481
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-24",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2200
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-11",
+    "Region": "North",
+    "Sales_Closed": 29,
+    "Total_Commission": 2153
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-25",
+    "Region": "West",
+    "Sales_Closed": 20,
+    "Total_Commission": 2449
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2500
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-15",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2072
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2712
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-16",
+    "Region": "North",
+    "Sales_Closed": 26,
+    "Total_Commission": 2295
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2016
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-09",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2640
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-29",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2216
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2060
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "North",
+    "Sales_Closed": 20,
+    "Total_Commission": 2938
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-11",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2615
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-15",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2041
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-11",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2024
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-11",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2038
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-22",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2802
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-22",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2130
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-01",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2497
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-10",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2228
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-19",
+    "Region": "East",
+    "Sales_Closed": 29,
+    "Total_Commission": 2107
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-22",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2171
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-19",
+    "Region": "South",
+    "Sales_Closed": 29,
+    "Total_Commission": 2434
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-12",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2477
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-29",
+    "Region": "South",
+    "Sales_Closed": 21,
+    "Total_Commission": 2101
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-21",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2865
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2523
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-30",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2274
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-23",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2612
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2043
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-25",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2954
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-18",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2816
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-20",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2956
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-12",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2016
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-18",
+    "Region": "South",
+    "Sales_Closed": 12,
+    "Total_Commission": 2329
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-28",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2568
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2822
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-28",
+    "Region": "North",
+    "Sales_Closed": 27,
+    "Total_Commission": 2496
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-03",
+    "Region": "South",
+    "Sales_Closed": 19,
+    "Total_Commission": 2814
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2011
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-25",
+    "Region": "West",
+    "Sales_Closed": 19,
+    "Total_Commission": 2317
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "North",
+    "Sales_Closed": 21,
+    "Total_Commission": 2591
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-16",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2215
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-08",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2338
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-15",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2775
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-07",
+    "Region": "East",
+    "Sales_Closed": 11,
+    "Total_Commission": 2990
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-15",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2660
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-06",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2080
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-24",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2726
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-03",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2484
+  },
+  {
+    "Agent_ID": 105,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-13",
+    "Region": "West",
+    "Sales_Closed": 26,
+    "Total_Commission": 2373
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-25",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2975
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-27",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2709
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2199
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-22",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2536
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2465
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-22",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2088
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-06",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2267
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "North",
+    "Sales_Closed": 21,
+    "Total_Commission": 2654
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-23",
+    "Region": "North",
+    "Sales_Closed": 27,
+    "Total_Commission": 2570
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-03",
+    "Region": "East",
+    "Sales_Closed": 23,
+    "Total_Commission": 2921
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-16",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2488
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-23",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2876
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-20",
+    "Region": "West",
+    "Sales_Closed": 11,
+    "Total_Commission": 2537
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-26",
+    "Region": "East",
+    "Sales_Closed": 21,
+    "Total_Commission": 2046
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2287
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-22",
+    "Region": "West",
+    "Sales_Closed": 12,
+    "Total_Commission": 2777
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-26",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2015
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-14",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2710
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-27",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2400
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2918
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-20",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2793
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-28",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2980
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "West",
+    "Sales_Closed": 23,
+    "Total_Commission": 2085
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-19",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2249
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-22",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2390
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-16",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2781
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2334
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-02",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2628
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-26",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2518
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-28",
+    "Region": "North",
+    "Sales_Closed": 22,
+    "Total_Commission": 2136
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-02",
+    "Region": "West",
+    "Sales_Closed": 19,
+    "Total_Commission": 2882
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-05",
+    "Region": "West",
+    "Sales_Closed": 27,
+    "Total_Commission": 2687
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-06",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2839
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2497
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-07",
+    "Region": "South",
+    "Sales_Closed": 16,
+    "Total_Commission": 2826
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-06",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2726
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-20",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2476
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-07",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2593
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2222
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-05",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2989
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2371
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-23",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2934
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-29",
+    "Region": "South",
+    "Sales_Closed": 26,
+    "Total_Commission": 2994
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-16",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2401
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-28",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2442
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-15",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2489
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-12",
+    "Region": "South",
+    "Sales_Closed": 23,
+    "Total_Commission": 2614
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-25",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2272
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-26",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2525
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-25",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2158
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-05",
+    "Region": "South",
+    "Sales_Closed": 16,
+    "Total_Commission": 2151
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "North",
+    "Sales_Closed": 28,
+    "Total_Commission": 2994
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "South",
+    "Sales_Closed": 15,
+    "Total_Commission": 2619
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-24",
+    "Region": "East",
+    "Sales_Closed": 15,
+    "Total_Commission": 2187
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-04",
+    "Region": "East",
+    "Sales_Closed": 12,
+    "Total_Commission": 2812
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "East",
+    "Sales_Closed": 16,
+    "Total_Commission": 2097
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-16",
+    "Region": "West",
+    "Sales_Closed": 28,
+    "Total_Commission": 2130
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2804
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-05",
+    "Region": "East",
+    "Sales_Closed": 19,
+    "Total_Commission": 2170
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "North",
+    "Sales_Closed": 29,
+    "Total_Commission": 2935
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2985
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2182
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-28",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2982
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-26",
+    "Region": "West",
+    "Sales_Closed": 29,
+    "Total_Commission": 2363
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-12",
+    "Region": "North",
+    "Sales_Closed": 16,
+    "Total_Commission": 2038
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2526
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-31",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2887
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "South",
+    "Sales_Closed": 10,
+    "Total_Commission": 2496
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-28",
+    "Region": "West",
+    "Sales_Closed": 14,
+    "Total_Commission": 2515
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-24",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2348
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-16",
+    "Region": "West",
+    "Sales_Closed": 13,
+    "Total_Commission": 2981
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-14",
+    "Region": "West",
+    "Sales_Closed": 11,
+    "Total_Commission": 2920
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-19",
+    "Region": "South",
+    "Sales_Closed": 19,
+    "Total_Commission": 2396
+  },
+  {
+    "Agent_ID": 100,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-24",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2721
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-31",
+    "Region": "South",
+    "Sales_Closed": 19,
+    "Total_Commission": 2160
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2015
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-31",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2492
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-16",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2425
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-18",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2107
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-26",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2893
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-31",
+    "Region": "East",
+    "Sales_Closed": 22,
+    "Total_Commission": 2449
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-21",
+    "Region": "East",
+    "Sales_Closed": 29,
+    "Total_Commission": 2310
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-30",
+    "Region": "North",
+    "Sales_Closed": 24,
+    "Total_Commission": 2738
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-09",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2169
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-21",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2545
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2413
+  },
+  {
+    "Agent_ID": 107,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-17",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2250
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-27",
+    "Region": "South",
+    "Sales_Closed": 21,
+    "Total_Commission": 2758
+  },
+  {
+    "Agent_ID": 101,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-27",
+    "Region": "West",
+    "Sales_Closed": 22,
+    "Total_Commission": 2780
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-10",
+    "Region": "North",
+    "Sales_Closed": 11,
+    "Total_Commission": 2140
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-26",
+    "Region": "South",
+    "Sales_Closed": 28,
+    "Total_Commission": 2273
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-01",
+    "Region": "North",
+    "Sales_Closed": 28,
+    "Total_Commission": 2415
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-24",
+    "Region": "East",
+    "Sales_Closed": 13,
+    "Total_Commission": 2607
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-28",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2738
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-25",
+    "Region": "West",
+    "Sales_Closed": 20,
+    "Total_Commission": 2890
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-27",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2038
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-10",
+    "Region": "North",
+    "Sales_Closed": 29,
+    "Total_Commission": 2813
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "North",
+    "Sales_Closed": 20,
+    "Total_Commission": 2028
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-15",
+    "Region": "South",
+    "Sales_Closed": 19,
+    "Total_Commission": 2957
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-07",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2476
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2317
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-15",
+    "Region": "West",
+    "Sales_Closed": 15,
+    "Total_Commission": 2244
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-21",
+    "Region": "North",
+    "Sales_Closed": 17,
+    "Total_Commission": 2747
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-06",
+    "Region": "South",
+    "Sales_Closed": 24,
+    "Total_Commission": 2696
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-03",
+    "Region": "East",
+    "Sales_Closed": 23,
+    "Total_Commission": 2271
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-26",
+    "Region": "North",
+    "Sales_Closed": 20,
+    "Total_Commission": 2439
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-08",
+    "Region": "West",
+    "Sales_Closed": 21,
+    "Total_Commission": 2747
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-19",
+    "Region": "South",
+    "Sales_Closed": 22,
+    "Total_Commission": 2238
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2376
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-25",
+    "Region": "East",
+    "Sales_Closed": 27,
+    "Total_Commission": 2265
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-04",
+    "Region": "West",
+    "Sales_Closed": 10,
+    "Total_Commission": 2925
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-28",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2920
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-04",
+    "Region": "East",
+    "Sales_Closed": 17,
+    "Total_Commission": 2358
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-01",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2339
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-05",
+    "Region": "North",
+    "Sales_Closed": 21,
+    "Total_Commission": 2388
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-29",
+    "Region": "South",
+    "Sales_Closed": 21,
+    "Total_Commission": 2576
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-23",
+    "Region": "East",
+    "Sales_Closed": 13,
+    "Total_Commission": 2989
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-26",
+    "Region": "West",
+    "Sales_Closed": 25,
+    "Total_Commission": 2688
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-30",
+    "Region": "South",
+    "Sales_Closed": 13,
+    "Total_Commission": 2002
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-25",
+    "Region": "North",
+    "Sales_Closed": 14,
+    "Total_Commission": 2428
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-16",
+    "Region": "East",
+    "Sales_Closed": 14,
+    "Total_Commission": 2141
+  },
+  {
+    "Agent_ID": 116,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-13",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2375
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-08",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2669
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-11",
+    "Region": "East",
+    "Sales_Closed": 26,
+    "Total_Commission": 2323
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-26",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2145
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-20",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2957
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-13",
+    "Region": "West",
+    "Sales_Closed": 23,
+    "Total_Commission": 2292
+  },
+  {
+    "Agent_ID": 108,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-25",
+    "Region": "South",
+    "Sales_Closed": 17,
+    "Total_Commission": 2664
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-03",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2431
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-29",
+    "Region": "East",
+    "Sales_Closed": 20,
+    "Total_Commission": 2704
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-04",
+    "Region": "North",
+    "Sales_Closed": 10,
+    "Total_Commission": 2948
+  },
+  {
+    "Agent_ID": 118,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-14",
+    "Region": "North",
+    "Sales_Closed": 23,
+    "Total_Commission": 2974
+  },
+  {
+    "Agent_ID": 114,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-13",
+    "Region": "South",
+    "Sales_Closed": 14,
+    "Total_Commission": 2584
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-21",
+    "Region": "West",
+    "Sales_Closed": 23,
+    "Total_Commission": 2398
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-01",
+    "Region": "North",
+    "Sales_Closed": 13,
+    "Total_Commission": 2816
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-10",
+    "Region": "East",
+    "Sales_Closed": 10,
+    "Total_Commission": 2888
+  },
+  {
+    "Agent_ID": 111,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-05",
+    "Region": "East",
+    "Sales_Closed": 28,
+    "Total_Commission": 2343
+  },
+  {
+    "Agent_ID": 119,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-04-14",
+    "Region": "West",
+    "Sales_Closed": 17,
+    "Total_Commission": 2963
+  },
+  {
+    "Agent_ID": 103,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-17",
+    "Region": "East",
+    "Sales_Closed": 24,
+    "Total_Commission": 2139
+  },
+  {
+    "Agent_ID": 115,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-02-08",
+    "Region": "West",
+    "Sales_Closed": 24,
+    "Total_Commission": 2186
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-31",
+    "Region": "East",
+    "Sales_Closed": 18,
+    "Total_Commission": 2804
+  },
+  {
+    "Agent_ID": 112,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-10",
+    "Region": "South",
+    "Sales_Closed": 18,
+    "Total_Commission": 2060
+  },
+  {
+    "Agent_ID": 109,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-30",
+    "Region": "North",
+    "Sales_Closed": 19,
+    "Total_Commission": 2996
+  },
+  {
+    "Agent_ID": 106,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-18",
+    "Region": "South",
+    "Sales_Closed": 29,
+    "Total_Commission": 2938
+  },
+  {
+    "Agent_ID": 113,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-28",
+    "Region": "North",
+    "Sales_Closed": 18,
+    "Total_Commission": 2379
+  },
+  {
+    "Agent_ID": 104,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-05-04",
+    "Region": "North",
+    "Sales_Closed": 12,
+    "Total_Commission": 2709
+  },
+  {
+    "Agent_ID": 102,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-03-13",
+    "Region": "North",
+    "Sales_Closed": 29,
+    "Total_Commission": 2806
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-15",
+    "Region": "South",
+    "Sales_Closed": 20,
+    "Total_Commission": 2439
+  },
+  {
+    "Agent_ID": 110,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-04",
+    "Region": "North",
+    "Sales_Closed": 15,
+    "Total_Commission": 2318
+  },
+  {
+    "Agent_ID": 117,
+    "Average_Commission_per_Sale": 100,
+    "Commission_Date": "2024-01-09",
+    "Region": "South",
+    "Sales_Closed": 11,
+    "Total_Commission": 2301
+  }
+]

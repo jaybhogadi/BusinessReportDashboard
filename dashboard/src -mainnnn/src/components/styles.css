@@ -1,0 +1,93 @@
+.home-page {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Light background color */
+}
+
+.card {
+  width: 300px;
+  height:150px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #7db0c2; /* White background for cards */
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for cards */
+  transition: transform 0.3s ease-in-out;
+  margin: 20px;
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Lift card slightly on hover */
+}
+
+.card h2 {
+  color: #333; /* Dark heading color */
+  margin-top: 40px; /* Remove default margin for h3 */
+  margin-bottom: 10px;
+  text-decoration: none; /* Remove underline from links */
+
+}
+
+/* src/components/styles.css */
+
+.sales-navbar {
+  background-color: #62ccc7; /* Corporate level color */
+  padding: 10px;
+}
+
+.sales-navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.sales-navbar ul li {
+  margin: 0 10px;
+}
+
+.sales-navbar ul li a {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.sales-navbar ul li a:hover {
+  background-color: #479fa4; /* Darker shade on hover */
+}
+
+.months-dropdown {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.sales-navbar ul li:hover .months-dropdown {
+  display: block;
+}
+
+.months-dropdown li {
+  padding: 10px;
+}
+
+.months-dropdown li a {
+  color: #333;
+}
+
+.months-dropdown li a:hover {
+  background-color: #ddd;
+}
+
+
+
+
+

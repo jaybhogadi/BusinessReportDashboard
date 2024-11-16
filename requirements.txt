@@ -1,0 +1,44 @@
+flask
+npm i 
+npm install papaparse
+pandas
+pandasai
+
+
+
+npm install chart.js@^3.0.0
+
+npm install http-proxy-middleware
+
+
+PS D:\Learning\React_Main\dashboard> npm i react-icons   
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+
+
+pandas
+flask
+flask_cors
+requests
+langchain
+langchain-huggingface
+langchain-community
+Pyjwt
+
+
+axios
+chart
+react-router-dom
+react-icons
+chart.js@^3.0.0
+@fortawesome/fontawesome-free
+plotly.js
+chartjs-plugin-datalabels
+
+
+plotly.js-cartesian-dist
+npm install file-saver
+chartjs-plugin-datalabels
+
+langchain_huggingface
